@@ -1,0 +1,126 @@
+All,"Të gjitha"
+None,Asnjë
+Custom,"E personalizuar"
+"Are you sure?","A jeni të sigurt?"
+Remove,Hiq
+close,mbyll
+Notifications,Njoftimet
+"1 Hour","1 orë"
+"2 Hours","2 orë"
+"6 Hours","6 orë"
+"12 Hours","12 orë"
+"24 Hours","24 orë"
+notice,lajmerim
+Close,Mbyll
+"Recently Compared Products (%1)","Produkte të krahasuara së fundmi (%1)"
+"Only %1%2%3 left in stock","Vetëm %1%2%3 në gjendje"
+"Only <span id=""%1_max_allowed"">%2</span> in stock","Vetëm <span id=""%1_max_allowed"">%2</span> në gjendje"
+Details,Detajet
+"In stock","Në gjendje"
+Root,Rrënjë
+Delete,Fshi
+"Are you sure you want to delete this category?","A jeni i sigurt që dëshironi ta fshini këtë kategori?"
+Save,Ruaj
+Name,Emri
+SKU,"Kodi i produktit"
+Visibility,Dukshmëria
+Status,Statusi
+Price,Çmimi
+Position,Pozicioni
+"Add Subcategory","Shto nënkategori"
+"Add Root Category","Shto kategori rrënjë"
+Day,Ditë
+Month,Muaj
+Year,Vit
+from,nga
+to,në
+"WYSIWYG Editor","Redaktori WYSIWYG"
+"Add Product","Shto Produkt"
+label,emërtimi
+"Add Attribute Set","Shto grupin e atributeve"
+"Close Window","Mbyll dritaren"
+"New Product","Produkt i ri"
+"Save & Edit","Ruaj dhe Ndrysho"
+Change,Ndrysho
+"Category Name","Emri i kategorisë"
+"Parent Category","Kategoria Prind"
+"First Name",Emri
+"Last Name",Mbiemri
+"Are you sure you want to remove this item from your Compare Products list?","A jeni të sigurt që doni të hiqni këtë produkt nga lista e Produkteve të Krahasuara?"
+"Are you sure you want to remove all items from your Compare Products list?","A jeni të sigurt që doni të hiqni të gjitha produket nga lista e Produkteve të Krahasuara?"
+Qty,Sasia
+"In Stock","Në gjendje"
+"Out of Stock","Nuk ka gjendje"
+"Item Price","Çmimi i artikullit"
+"Image Size","Madhësia e imazhit"
+"Image Resolution","Madhësia e imazhit"
+"Hide from Product Page","Fshi nga faqja e produktit"
+"Compare Products","Krahasoni produktet"
+"Add to Cart","Shtoni në shportë"
+"Add to Wish List","Shto në listën e dëshirave"
+"Add to Compare","Shto në listën e krahasimeve"
+"More Information","Më shumë të dhëna"
+"Recently Viewed/Compared Products","Produkte të shikuara së fundmi"
+"Recently Compared Products","Produkte të krahasuara së fundmi"
+"Add To Cart","Shtoni në shportë"
+"Add To Compare","Shto në listën e krahasimeve"
+"You have no items in your shopping cart.","Ju nuk keni artikuj në shportën tuaj."
+"Sign In","Hyr në Llogari"
+"Create an Account","Krijo një llogari"
+"Create a Company Account","Krijo një llogari si kompani"
+"Create New Company Account","Krijo një llogari të re si kompani"
+"Force Sign-In","Hyr në llogari me forcë"
+"Back to Sign In","Kthehuni tek Identifikimi"
+"Sign-in Information","Informacione ne lidhje me identifikimin"
+"More information","Më shumë të dhëna"
+"Admin Sign In","Identifikohu si Administrator"
+Reviews,Përshtypjet
+"Pending Reviews","Përshtypjet në shqyrtim"
+"All Reviews","Të gjitha përshtypjet"
+"Reviews %1","Përshtypjet %1"
+"Search entire store here...","Kërko në të gjithë dyqanin..."
+"My Account","Llogaria ime"
+"Now Shopping by","Duke blerë në"
+Previous,Paraardhëse
+"Remove This Item","Hiq këtë artikull"
+"Shop By","Bli Nga"
+"Clear All","Pastro të gjitha"
+"Shopping Options","Mundësitë e Blerjeve"
+"Welcome to %store_name","Mirë se erdhët në %store_name"
+"Welcome to %store_name.","Mirë se erdhët në %store_name."
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per te hyrë në faqen tonë, përdorni të dhënat tuaja, në faqen: <a href=""%customer_url"">Llogaria ime</a>"
+Password:,Fjalëkalimi:
+"Password you set when creating account","Fjalëkalimi që ju vendosët kur krijuat llogarinë"
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Keni harruar fjalëkalimin? Klikoni <a href=""%reset_url"">këtu</a> për ta rivendosur."
+"When you sign in to your account, you will be able to:","Kur të hyni në llogarinë tuaj, ju do të jeni në gjendje të:"
+"Quick Checkout","Pagesë e shpejtë"
+"Proceed through checkout faster","Kryeni pagesën më shpejtë"
+"Order Status","Gjendja e porosisë"
+"Check the status of orders","Kontrolloni gjendjen e porosisë"
+"Manage Addresses","Menaxhoni Adresat"
+"Store alternative addresses","Ruani adresat alternative"
+"For shipping to multiple family members and friends","Për dërgesat te disa prej anëtarëve të familjes ose miqve tuaj"
+"Order History","Historiku i porosisë"
+"View past orders","Shfaq porositë e mëparëshme"
+Footer,Fundfaqe
+"Credit memo for your %store_name order","Memorandum krediti për porosinë në %store_name"
+"Thank you for your order from %store_name.","Ju falenderojmë për porosinë në %store_name"
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Ju mund të kontrolloni gjendjen e porosisë duke <a href=""%account_url"">hyrë në llogarinë tuaj</a>."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Nëse keni pyetje në lidhje me porosinë tuaj, mund të na shkruani në adresën e email <a href=""mailto:%store_email"">%store_email</a>."
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Memorandumi i kreditit #%creditmemo_id për porosinë #%order_id"
+"Billing Info","Informatat e Faturimit"
+"Payment Method","Metoda e pagesës"
+"Update to your %store_name credit memo","Përditësim për memorandumin e kreditit tuaj në %store_name"
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Porosia juaj #%increment_id është përditësuar në statusin <strong>%order_status</strong>."
+"Invoice for your %store_name order","Fatura për porosinë tuaj në %store_name"
+"Your Invoice #%invoice_id for Order #%order_id","Fatura juaj #%invoice_id për porosinë #%order_id"
+"Update to your %store_name invoice","Përditesimi për faturën tuaj në %store_name"
+"Your %store_name order confirmation","Konfirmimi i porosisë në %store_name"
+"Once your package ships we will send you a tracking number.","Pasi paketa juaj të dërgohet, ne do t'ju dërgojmë një numër gjurmimi."
+"Your Order <span class=""no-link"">#%increment_id</span>","Porosia juaj <span class=""no-link"">#%increment_id</span>"
+"Placed on <span class=""no-link"">%created_at</span>","Vendosur në <span class=""no-link"">%created_at</span>"
+"Update to your %store_name order","Përditesimi për porosinë tuaj në %store_name"
+"Your %store_name order has shipped","Porosia juaj %store_name është dërguar"
+"Your shipping confirmation is below. Thank you again for your business.","Konfirmimi i dërgesës është më poshtë. Faleminderit për porosine tuaj."
+"Your Shipment #%shipment_id for Order #%order_id","Dërgesa #%shipment_id për porosinë #%order_id"
+"Update to your %store_name shipment","Përditësim për dërgesën tuaj, %store_name"
