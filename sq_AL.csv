@@ -19,7 +19,6 @@ Details,Detajet
 "In stock","Në gjendje"
 Root,Rrënjë
 Delete,Fshi
-"Are you sure you want to delete this category?","A jeni i sigurt që dëshironi ta fshini këtë kategori?"
 Save,Ruaj
 Name,Emri
 SKU,"Kodi i produktit"
@@ -32,8 +31,6 @@ Position,Pozicioni
 Day,Ditë
 Month,Muaj
 Year,Vit
-from,nga
-to,në
 "WYSIWYG Editor","Redaktori WYSIWYG"
 "Add Product","Shto Produkt"
 label,emërtimi
@@ -64,10 +61,13 @@ Qty,Sasia
 "Recently Compared Products","Produkte të krahasuara së fundmi"
 "Add To Cart","Shtoni në shportë"
 "Add To Compare","Shto në listën e krahasimeve"
+"Are you sure you want to delete this category?","A jeni i sigurt që dëshironi ta fshini këtë kategori?"
+from,nga
+to,në
 "You have no items in your shopping cart.","Ju nuk keni artikuj në shportën tuaj."
 "Sign In","Hyr në Llogari"
-"Create an Account","Krijo një llogari"
 "Create a Company Account","Krijo një llogari si kompani"
+"Create an Account","Krijo një llogari"
 "Create New Company Account","Krijo një llogari të re si kompani"
 "Force Sign-In","Hyr në llogari me forcë"
 "Back to Sign In","Kthehuni tek Identifikimi"
@@ -79,7 +79,6 @@ Reviews,Përshtypjet
 "All Reviews","Të gjitha përshtypjet"
 "Reviews %1","Përshtypjet %1"
 "Search entire store here...","Kërko në të gjithë dyqanin..."
-"My Account","Llogaria ime"
 "Now Shopping by","Duke blerë në"
 Previous,Paraardhëse
 "Remove This Item","Hiq këtë artikull"
